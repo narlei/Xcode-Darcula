@@ -14,5 +14,8 @@ Xcode theme based on the Darcula theme for JetBrains IDEs. Based on the [version
 
 
 [Hack]: https://github.com/chrissimpkins/Hack
-[Normal-Screenshot]: https://github.com/shadowfacts/Xcode-Darcula/blob/master/Screenshots/Darcula.png
-[Hack-Screenshot]: https://github.com/shadowfacts/Xcode-Darcula/blob/master/Screenshots/Darcula-Hack.png
+[Normal-Screenshot]: Screenshots/Darcula.png
+[Hack-Screenshot]: Screenshots/Darcula-Hack.png
+
+
+
