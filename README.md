@@ -13,9 +13,10 @@ Xcode theme based on the Darcula theme for JetBrains IDEs. Based on the [version
 3. Select the theme in the `Fonts & Colors` section of the Xcode preferences.
 
 
-[Hack]: https://github.com/chrissimpkins/Hack
-[Normal-Screenshot]: Screenshots/Darcula.png
-[Hack-Screenshot]: Screenshots/Darcula-Hack.png
+![](Screenshots/Darcula.png)
+
+![](Screenshots/Darcula-Hack.png)
+
 
 
 
